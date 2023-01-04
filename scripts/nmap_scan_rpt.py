@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Take Nmap XML results and show hosts that are up with opened ports
-Author Jose Vicente Nunez (kodegeek.com@protonmail.com)
+Nur Atiqah Ashekin Binti Mohd Khaidzir Fahmi TP051894
 """
 import sys
 from rich.console import Console

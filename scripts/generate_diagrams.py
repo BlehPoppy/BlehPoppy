@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
-Generate network diagrams for this tutorial
-Author Jose Vicente Nunez (kodegeek.com@protonmail.com)
+
+Nur Atiqah Ashekin Binti Mohd Khaidzir Fahmi TP051894
 """
 import argparse
 from diagrams import Cluster, Diagram

@@ -6,8 +6,7 @@ This script can scan your home network to show information from all the connecte
 ## References:
 * [NMAP reference](https://nmap.org/book/man.html)
 
-# Author
-Jose Vicente Nunez Zuleta (kodegeek.com@protonmail.com)
+# Nur Atiqah Ashekin Binti Mohd Khaidzir Fahmi TP051894
 """
 import json
 import logging

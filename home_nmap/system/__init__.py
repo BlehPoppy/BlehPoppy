@@ -5,8 +5,7 @@ The NMAP default are tailored for a home network (wired/ wireless). To understan
 * [Port Scanning Techniques](https://nmap.org/book/man-port-scanning-techniques.html)
 * [Timing and Performance](https://nmap.org/book/man-performance.html).
 * [Timing Templates (-T)](https://nmap.org/book/performance-timing-templates.html)
-# Author
-Jose Vicente Nunez Zuleta (kodegeek.com@protonmail.com)
+# Nur Atiqah Ashekin Binti Mohd Khaidzir Fahmi TP051894
 """
 
 import os

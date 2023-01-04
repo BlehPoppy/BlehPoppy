@@ -16,14 +16,14 @@ def __read__(file_name):
 setup(
     name="home_nmap",
     version=__version__,
-    author="Jose Vicente Nunez Zuleta",
+    author="Nur Atiqah Ashekin Binti Mohd Khaidzir Fahmi",
     long_description_content_type="text/markdown",
     long_description=__read__('tutorial/README.md'),
-    author_email="kodegeek.com@protonmail.com",
+    author_email="TP051894",
     description=__doc__,
     license="Apache",
     keywords="nmap query",
-    url="https://github.com/josevnz/homenmap",
+    url="https://github.com/BlehPoppy/BlehPoppy",
     packages=setuptools.find_packages(),
     # https://pypi.org/pypi?%3Aaction=list_classifiers
     classifiers=[

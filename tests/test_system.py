@@ -1,6 +1,5 @@
 """
-Unit tests for code used on this tutorial.
-Author Jose Vicente Nunez (kodegeek.com@protonmail.com)
+Nur Atiqah Ashekin Binti Mohd Khaidzir Fahmi TP051894
 """
 import pprint
 import unittest

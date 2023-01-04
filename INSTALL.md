@@ -10,7 +10,7 @@ python -m pip install --upgrade pip
 Then clone the code from GitHub:
 
 ```shell
-git clone git@github.com:josevnz/nmap_home.git
+git clone git@github.com:BlehPoppy/BlehPoppy.git
 ```
 
 After that compile your wheel and install it
